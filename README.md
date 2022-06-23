@@ -1,6 +1,5 @@
 ### Olá! Seja Bem-vindo(a)! 👋
-Sou estudante Front-End.
-Atualmente aperfeiçoando meus conhecimentos em HTML5 | CSS3 | JS | REACT
+Programadora Junior na empresa Frenet, tenho conhecimentos básicos em HTML, CSS e Javascript, atualmente estou desenvolvendo minhas habilidades e ganhando experiência na área de Backend através da linguagem C#, framework .NET, e banco de dados SQL Server.
 
 Tenho muito interesse em conhecer novas Tecnologias, Linguagens de programação e Frameworks.
 
